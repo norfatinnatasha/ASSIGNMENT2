@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ASSIGNMENT2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_search_maps">SearchMaps</string>
+    <string name="title_activity_user_location">UserLocation</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_testlocation">testlocation</string>
+
+    <string name="github">
+        <a href="https://github.com/norfatinnatasha/ASSIGNMENT2">
+            https://github.com/norfatinnatasha/ASSIGNMENT2</a>
+    </string>
+    <string name="title_activity_current_location">CurrentLocation</string>
+</resources>
