@@ -186,7 +186,7 @@
                 android:fontFamily="sans-serif-condensed-light"
                 android:gravity="center"
                 android:padding="8dp"
-                android:text="Copyright &#169; 2023 NORFATIN NATASHA"
+                android:text="Copyright &#169; 2023 LOCATION TRACKER"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textColor="#081A3F"
                 android:textStyle="bold"
